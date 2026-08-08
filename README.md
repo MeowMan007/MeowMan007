@@ -12,7 +12,7 @@
 
 <!-- ═══ BADGES ROW ═══ -->
 <a href="https://github.com/MeowMan007">
-  <img src="https://komarev.com/ghpvc/?username=MeowMan007&style=for-the-badge&color=7c3aed&label=👁️+PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=MeowMan007&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 </a>
 &nbsp;
 <img src="https://img.shields.io/github/followers/MeowMan007?style=for-the-badge&color=c026d3&labelColor=1a1a2e&label=Followers&logo=github" />
@@ -21,55 +21,92 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Deployments-6%2B-f59e0b?style=for-the-badge&labelColor=1a1a2e&logo=vercel&logoColor=f59e0b" />
 
-<br/><br/>
-
-<!-- ═══ ANIMATED DIVIDER ═══ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 </div>
 
-## 🧑‍💻 About Me
+---
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
+## ⚔️ Developer RPG Stats — Arshal `[LVL 99]`
 
-```python
-class MeowMan:
-
-    name       = "Arshal"          # 👈 That's me!
-    username   = "MeowMan007"
-    role       = "Full-Stack Dev + AI Builder"
-    location   = "🌍 Earth"
-    joined     = "September 2023"
-
-    languages  = [
-        "Python 🐍", "JavaScript ⚡",
-        "TypeScript 💙", "HTML/CSS 🎨"
-    ]
-
-    tools      = [
-        "React", "Node.js", "Flask",
-        "AWS Lambda", "Vercel", "Railway"
-    ]
-
-    ai_stack   = [
-        "HuggingFace 🤗", "OpenAI",
-        "Pandas", "NumPy", "PyTorch"
-    ]
-
-    ask_me_about = "Web Dev, AI, Cloud & Open Source"
-
-    def current_focus(self):
-        return "🤖 Building AI-powered web experiences"
-
-    def fun_fact(self):
-        return "I ship projects faster than I sleep! 🚀"
+```
+╔══════════════════════════════════════════════════════════════╗
+║           🧙 MEOWMAN007 — ARCANE CODE MAGE                  ║
+║                    ★ ★ ★ ★ ★                                ║
+╠══════════════════════════════════════════════════════════════╣
+║  CLASS    :  Full-Stack Sorcerer + AI Alchemist              ║
+║  ORIGIN   :  The Internet  🌐                                ║
+║  GUILD    :  GitHub  [ MeowMan007 ]                          ║
+║  STATUS   :  ⚡ ONLINE & BUILDING                            ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  ❤️  HP      ████████████████████░░░░  90 / 100             ║
+║  💙  MANA    ███████████████████░░░░░  85 / 100  (coffee ☕) ║
+║  ⚡  SPEED   ██████████████████░░░░░░  80 / 100  (fast ship) ║
+║  🛡️  FOCUS   █████████████████████░░  95 / 100             ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║  SKILLS UNLOCKED                                             ║
+║                                                              ║
+║  🐍 Python       ████████████████████  ★★★★★  MASTERED     ║
+║  ⚡ JavaScript   ████████████████████  ★★★★★  MASTERED     ║
+║  💙 TypeScript   █████████████████░░░  ★★★★☆  EXPERT       ║
+║  ⚛️  React        ████████████████░░░░  ★★★★☆  EXPERT       ║
+║  ☁️  AWS          ██████████████░░░░░░  ★★★☆☆  ADVANCED     ║
+║  🤖 AI / ML      █████████████░░░░░░░  ★★★☆☆  ADVANCED     ║
+║  📊 Data Sci     ████████████░░░░░░░░  ★★★☆☆  ADVANCED     ║
+╠══════════════════════════════════════════════════════════════╣
+║  ACHIEVEMENTS                                                ║
+║  🏅 25+ Repos Deployed    🏅 6 Live Apps Built               ║
+║  🏅 AI Tools Creator      🏅 Cloud Architect                 ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-<br clear="right"/>
+---
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
+## 🗺️ Tech Skill Tree
+
+```mermaid
+mindmap
+  root((🧙 Arshal))
+    🐍 Python
+      Flask
+      Pandas
+      NumPy
+      PyTorch
+    ⚡ JavaScript
+      React ⚛️
+      Node.js
+      TypeScript
+    ☁️ Cloud
+      AWS Lambda
+      Vercel
+      Railway
+    🤖 AI & ML
+      HuggingFace 🤗
+      LLMs
+      Data Analysis
+    🗄️ Databases
+      MongoDB
+      MySQL
+```
+
+---
+
+## 📜 Active Quest Log
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    📋 QUEST LOG                             │
+├──────┬──────────────────────────────────────┬───────────────┤
+│  ⚔️  │ Build Placidus AI                    │  ✅ DEPLOYED  │
+│  ⚔️  │ Launch Portfolio Site                │  ✅ LIVE      │
+│  ⚔️  │ Create AImap Explorer                │  ✅ LIVE      │
+│  ⚔️  │ Ship Accesslens on HuggingFace       │  ✅ COMPLETE  │
+│  ⚔️  │ Deploy Serverless App on AWS         │  ✅ COMPLETE  │
+│  🔮  │ Master Advanced AI/ML Techniques     │  🔄 IN PROG  │
+│  🔮  │ Build next big AI product            │  🔄 IN PROG  │
+│  🗡️  │ Contribute to Open Source            │  🔜 UPCOMING │
+└──────┴──────────────────────────────────────┴───────────────┘
+```
 
 ---
 
@@ -78,35 +115,22 @@ class MeowMan:
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" />
 
 ### ⚡ Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,flask,express&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask,express&theme=dark" />
 
 ### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,vercel,git,github,docker&theme=dark&perline=10" />
-
-### 🧠 AI & Data Science
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark&perline=10" />
-&nbsp;
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=1a1a2e" height="48"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=1a1a2e" height="48"/>
-&nbsp;
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=1a1a2e" height="48"/>
+<img src="https://skillicons.dev/icons?i=aws,vercel,git,github,docker&theme=dark" />
 
 ### 🗄️ Databases & Tools
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postman,vscode&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postman,vscode&theme=dark" />
 
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## ⚡ GitHub Stats
 
 <div align="center">
 
@@ -119,140 +143,99 @@ class MeowMan:
 
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MeowMan007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
 ---
 
 ## 🌟 Featured Projects
 
 <div align="center">
 
-<!-- Repo Cards Row 1 -->
-<a href="https://github.com/MeowMan007/Placidus_ai">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MeowMan007&repo=Placidus_ai&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" />
-</a>
-<a href="https://github.com/MeowMan007/portfolio">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MeowMan007&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" />
-</a>
+| 🚀 Project | 🛠️ Stack | 🌐 Live |
+|:---:|:---:|:---:|
+| 🤖 **[Placidus AI](https://github.com/MeowMan007/Placidus_ai)** | `JavaScript` | [![Live](https://img.shields.io/badge/▶%20PLAY-7c3aed?style=for-the-badge)](https://placidus-ai.vercel.app/) |
+| 🌐 **[Portfolio](https://github.com/MeowMan007/portfolio)** | `TypeScript` | [![Live](https://img.shields.io/badge/▶%20VISIT-c026d3?style=for-the-badge)](https://arshals.vercel.app/) |
+| 🗺️ **[AImap](https://github.com/MeowMan007/AImap)** | `HTML` | [![Live](https://img.shields.io/badge/▶%20EXPLORE-22d3ee?style=for-the-badge)](https://a-imap.vercel.app) |
+| ♿ **[Accesslens](https://github.com/MeowMan007/Accesslens)** | `Python` | [![Live](https://img.shields.io/badge/▶%20LAUNCH-f59e0b?style=for-the-badge)](https://huggingface.co/spaces/Arshal7xy/AccessAudit) |
+| ☁️ **[Serverless AWS](https://github.com/MeowMan007/serverless-webapp-aws)** | `AWS` | [![Code](https://img.shields.io/badge/⌨%20CODE-10b981?style=for-the-badge)](https://github.com/MeowMan007/serverless-webapp-aws) |
+| 📊 **[Retail Analysis](https://github.com/MeowMan007/retail-sales-data-analysis)** | `Python` | [![Code](https://img.shields.io/badge/⌨%20CODE-10b981?style=for-the-badge)](https://github.com/MeowMan007/retail-sales-data-analysis) |
 
-<br/>
-
-<!-- Repo Cards Row 2 -->
-<a href="https://github.com/MeowMan007/AImap">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MeowMan007&repo=AImap&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" />
-</a>
-<a href="https://github.com/MeowMan007/Accesslens">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MeowMan007&repo=Accesslens&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" />
-</a>
-
-<br/>
-
-<!-- Repo Cards Row 3 -->
-<a href="https://github.com/MeowMan007/serverless-webapp-aws">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MeowMan007&repo=serverless-webapp-aws&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" />
-</a>
-<a href="https://github.com/MeowMan007/retail-sales-data-analysis">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MeowMan007&repo=retail-sales-data-analysis&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" />
-</a>
-
-</div>
-
-<br/>
-
-### 🔗 All Live Deployments
-
-<div align="center">
-
-| 🚀 Project | 🛠️ Stack | 🌐 Live Link |
-|:--------:|:-------:|:----------:|
-| 🤖 **Placidus AI** | `JavaScript` | [![Live](https://img.shields.io/badge/▶%20Live-placidus--ai.vercel.app-7c3aed?style=flat-square)](https://placidus-ai.vercel.app/) |
-| 🌐 **Portfolio** | `TypeScript` | [![Live](https://img.shields.io/badge/▶%20Live-arshals.vercel.app-c026d3?style=flat-square)](https://arshals.vercel.app/) |
-| 🗺️ **AImap** | `HTML` | [![Live](https://img.shields.io/badge/▶%20Live-a--imap.vercel.app-22d3ee?style=flat-square)](https://a-imap.vercel.app) |
-| ♿ **Accesslens** | `Python` | [![Live](https://img.shields.io/badge/▶%20Live-HuggingFace%20Spaces-f59e0b?style=flat-square)](https://huggingface.co/spaces/Arshal7xy/AccessAudit) |
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 Achievements Unlocked
 
-<div align="center">
+```
+  🥇 Consistent Builder     — 25+ repos on GitHub
+  🥇 Deployer               — 6+ live apps in production
+  🥇 AI Crafter             — Built & deployed AI tools
+  🥇 Cloud Rider            — Serverless app on AWS
+  🥇 Full-Stack Warrior     — Frontend + Backend + DB
+  🥇 Data Wizard            — Python data analysis pipelines
+  🔒 10 Stars               — Keep building! (in progress...)
+  🔒 Open Source Hero       — Coming soon...
+```
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MeowMan007&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=c026d3&area=true&area_color=7c3aed&hide_border=true&custom_title=MeowMan007's%20Contribution%20Graph&radius=8" width="100%" />
+---
 
-</div>
+## 📊 Contribution Map
+
+```mermaid
+gitGraph
+   commit id: "🚀 Joined GitHub"
+   commit id: "🐍 First Python Project"
+   branch ai-branch
+   commit id: "🤖 AI Humanizer"
+   commit id: "♿ Accesslens"
+   checkout main
+   merge ai-branch id: "🤝 AI Merged"
+   branch web-branch
+   commit id: "🌐 Portfolio Live"
+   commit id: "🗺️ AImap"
+   commit id: "⚡ Placidus AI"
+   checkout main
+   merge web-branch id: "✅ Web Merged"
+   commit id: "☁️ Serverless AWS"
+   commit id: "📊 Retail Analysis"
+   commit id: "🔮 Next Big Thing..."
+```
 
 ---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MeowMan007/MeowMan007/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MeowMan007/MeowMan007/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MewMan007/MeowMan007/output/github-contribution-grid-snake.svg"/>
   <img alt="github-snake" src="https://raw.githubusercontent.com/MeowMan007/MeowMan007/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
----
-
-## 💬 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="80%" />
-
 </div>
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Connect & Build Something Amazing Together!
+```
+██████╗  ██╗   ██╗██╗██╗     ██████╗     ███████╗
+██╔══██╗ ██║   ██║██║██║     ██╔══██╗    ██╔════╝
+██████╔╝ ██║   ██║██║██║     ██║  ██║    ███████╗
+██╔══██╗ ██║   ██║██║██║     ██║  ██║    ╚════██║
+██████╔╝ ╚██████╔╝██║███████╗██████╔╝    ███████║
+╚═════╝   ╚═════╝ ╚═╝╚══════╝╚═════╝     ╚══════╝
+```
 
-<br/>
+### 🤝 Let's connect and build something epic!
 
-[![GitHub](https://img.shields.io/badge/GitHub-%40MeowMan007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MeowMan007)
+[![GitHub](https://img.shields.io/badge/GitHub-%40MeowMan007-181717?style=for-the-badge&logo=github)](https://github.com/MeowMan007)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-arshals.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://arshals.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-arshals.vercel.app-7c3aed?style=for-the-badge)](https://arshals.vercel.app/)
 &nbsp;
-[![Placidus AI](https://img.shields.io/badge/Project-Placidus%20AI-c026d3?style=for-the-badge&logo=openai&logoColor=white)](https://placidus-ai.vercel.app/)
+[![Placidus AI](https://img.shields.io/badge/🤖%20Placidus%20AI-Live-c026d3?style=for-the-badge)](https://placidus-ai.vercel.app/)
 
 <br/>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
+> *"Every line of code is a spell. Keep casting. 🧙‍♂️"*
 
-**"Every expert was once a beginner. Keep coding! 💜"**
-
-<br/>
-
-<!-- ═══ FOOTER WAVE ═══ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=130&section=footer&animation=fadeIn" />
 
 </div>
