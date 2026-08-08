@@ -1,92 +1,126 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed,c026d3&height=200&section=header&text=Hey%20there!%20I'm%20MeowMan%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Builder&descAlignY=60&descColor=c4b5fd&animation=fadeIn" />
-
-<!-- Typing SVG -->
-<a href="https://github.com/MeowMan007">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Python+%7C+JavaScript+%7C+TypeScript;Open+Source+Builder+%F0%9F%94%A8;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing SVG" />
-</a>
+<!-- ═══ ANIMATED HEADER BANNER ═══ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Hey!%20I'm%20Arshal%20%F0%9F%91%8B&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=%40MeowMan007%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Builder&descAlignY=60&descColor=c4b5fd&animation=fadeIn" />
 
 <br/>
 
-<!-- Profile views + Followers badges -->
-<img src="https://komarev.com/ghpvc/?username=MeowMan007&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views" />
+<!-- ═══ TYPING ANIMATION ═══ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Full-Stack+Developer;%F0%9F%A4%96+AI+%26+ML+Enthusiast;%F0%9F%90%8D+Python+%7C+JavaScript+%7C+TypeScript;%E2%98%81%EF%B8%8F+Cloud+Engineer+%7C+AWS+%7C+Vercel;%F0%9F%93%8A+Data+Analyst+%7C+Pandas+%7C+NumPy;%E2%9C%A8+Always+Learning%2C+Always+Building!" alt="Typing SVG" />
+
+<br/><br/>
+
+<!-- ═══ BADGES ROW ═══ -->
+<a href="https://github.com/MeowMan007">
+  <img src="https://komarev.com/ghpvc/?username=MeowMan007&style=for-the-badge&color=7c3aed&label=👁️+PROFILE+VIEWS" />
+</a>
 &nbsp;
-<img src="https://img.shields.io/github/followers/MeowMan007?style=for-the-badge&color=c026d3&labelColor=1a1a2e&label=FOLLOWERS" alt="Followers" />
+<img src="https://img.shields.io/github/followers/MeowMan007?style=for-the-badge&color=c026d3&labelColor=1a1a2e&label=Followers&logo=github" />
 &nbsp;
-<img src="https://img.shields.io/badge/Repos-25+-7c3aed?style=for-the-badge&labelColor=1a1a2e" alt="Repos" />
+<img src="https://img.shields.io/badge/Repos-25%2B-22d3ee?style=for-the-badge&labelColor=1a1a2e&logo=githubactions&logoColor=22d3ee" />
+&nbsp;
+<img src="https://img.shields.io/badge/Deployments-6%2B-f59e0b?style=for-the-badge&labelColor=1a1a2e&logo=vercel&logoColor=f59e0b" />
+
+<br/><br/>
+
+<!-- ═══ ANIMATED DIVIDER ═══ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 </div>
-
----
 
 ## 🧑‍💻 About Me
 
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
+
 ```python
 class MeowMan:
+
+    name       = "Arshal"          # 👈 That's me!
     username   = "MeowMan007"
+    role       = "Full-Stack Dev + AI Builder"
     location   = "🌍 Earth"
-    passion    = ["Full-Stack Dev", "AI/ML", "Data Analysis", "Cloud"]
-    languages  = ["Python", "JavaScript", "TypeScript", "HTML", "CSS"]
-    tools      = ["React", "Node.js", "Flask", "AWS", "Vercel", "Railway"]
-    hobbies    = ["Coding", "Building cool things", "Exploring AI"]
-    ask_me_about = "Anything tech related! 🤓"
+    joined     = "September 2023"
+
+    languages  = [
+        "Python 🐍", "JavaScript ⚡",
+        "TypeScript 💙", "HTML/CSS 🎨"
+    ]
+
+    tools      = [
+        "React", "Node.js", "Flask",
+        "AWS Lambda", "Vercel", "Railway"
+    ]
+
+    ai_stack   = [
+        "HuggingFace 🤗", "OpenAI",
+        "Pandas", "NumPy", "PyTorch"
+    ]
+
+    ask_me_about = "Web Dev, AI, Cloud & Open Source"
 
     def current_focus(self):
-        return "Building AI-powered web applications 🤖"
+        return "🤖 Building AI-powered web experiences"
 
-    def life_motto(self):
-        return "Code. Build. Deploy. Repeat. 🚀"
+    def fun_fact(self):
+        return "I ship projects faster than I sleep! 🚀"
 ```
 
----
-
-## 🚀 Tech Stack & Tools
+<br clear="right"/>
 
 <div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-6E4AFF?style=for-the-badge&logo=railway&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### AI & Data
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MeowMan007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&ring_color=c026d3" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeowMan007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0" alt="Top Languages" />
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark&perline=10" />
+
+### ⚡ Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask,express&theme=dark&perline=10" />
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,vercel,git,github,docker&theme=dark&perline=10" />
+
+### 🧠 AI & Data Science
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark&perline=10" />
+&nbsp;
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=1a1a2e" height="48"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=1a1a2e" height="48"/>
+&nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=1a1a2e" height="48"/>
+
+### 🗄️ Databases & Tools
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postman,vscode&theme=dark&perline=10" />
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MeowMan007&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeowMan007&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=MeowMan007&theme=tokyonight&hide_border=true&background=0d0d1a&stroke=7c3aed&ring=a78bfa&fire=f59e0b&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=94a3b8" alt="GitHub Streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=MeowMan007&theme=tokyonight-duo&hide_border=true&background=0D0D1A&ring=A78BFA&fire=F59E0B&currStreakLabel=C4B5FD&sideLabels=94A3B8&dates=475569&stroke=7C3AED" />
 
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
 ---
@@ -95,8 +129,12 @@ class MeowMan:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MeowMan007&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=MeowMan007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
 ---
@@ -105,17 +143,53 @@ class MeowMan:
 
 <div align="center">
 
-| Project | Description | Tech | Live |
-|--------|-------------|------|------|
-| 🤖 **[Placidus AI](https://github.com/MeowMan007/Placidus_ai)** | AI-powered web application | `JavaScript` | [placidus-ai.vercel.app](https://placidus-ai.vercel.app/) |
-| 🌐 **[Portfolio](https://github.com/MeowMan007/portfolio)** | Personal developer portfolio | `TypeScript` | [arshals.vercel.app](https://arshals.vercel.app/) |
-| 🗺️ **[AImap](https://github.com/MeowMan007/AImap)** | Interactive AI landscape map | `HTML` | [a-imap.vercel.app](https://a-imap.vercel.app) |
-| ♿ **[Accesslens](https://github.com/MeowMan007/Accesslens)** | AI accessibility auditor | `Python` | [HuggingFace Spaces](https://huggingface.co/spaces/Arshal7xy/AccessAudit) |
-| ☁️ **[Serverless AWS App](https://github.com/MeowMan007/serverless-webapp-aws)** | Cloud-native serverless app | `AWS` | — |
-| 📊 **[Retail Sales Analysis](https://github.com/MeowMan007/retail-sales-data-analysis)** | Data analysis pipeline | `Python` | — |
-| 🤝 **[InternBot](https://github.com/MeowMan007/InternBot)** | Internship automation bot | `Python` | — |
-| ✍️ **[AI Humanizer](https://github.com/MeowMan007/AI--Humanizer)** | AI text humanizer tool | `CSS/JS` | — |
+<!-- Repo Cards Row 1 -->
+<a href="https://github.com/MeowMan007/Placidus_ai">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MeowMan007&repo=Placidus_ai&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" />
+</a>
+<a href="https://github.com/MeowMan007/portfolio">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MeowMan007&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" />
+</a>
 
+<br/>
+
+<!-- Repo Cards Row 2 -->
+<a href="https://github.com/MeowMan007/AImap">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MeowMan007&repo=AImap&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" />
+</a>
+<a href="https://github.com/MeowMan007/Accesslens">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MeowMan007&repo=Accesslens&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" />
+</a>
+
+<br/>
+
+<!-- Repo Cards Row 3 -->
+<a href="https://github.com/MeowMan007/serverless-webapp-aws">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MeowMan007&repo=serverless-webapp-aws&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" />
+</a>
+<a href="https://github.com/MeowMan007/retail-sales-data-analysis">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MeowMan007&repo=retail-sales-data-analysis&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" />
+</a>
+
+</div>
+
+<br/>
+
+### 🔗 All Live Deployments
+
+<div align="center">
+
+| 🚀 Project | 🛠️ Stack | 🌐 Live Link |
+|:--------:|:-------:|:----------:|
+| 🤖 **Placidus AI** | `JavaScript` | [![Live](https://img.shields.io/badge/▶%20Live-placidus--ai.vercel.app-7c3aed?style=flat-square)](https://placidus-ai.vercel.app/) |
+| 🌐 **Portfolio** | `TypeScript` | [![Live](https://img.shields.io/badge/▶%20Live-arshals.vercel.app-c026d3?style=flat-square)](https://arshals.vercel.app/) |
+| 🗺️ **AImap** | `HTML` | [![Live](https://img.shields.io/badge/▶%20Live-a--imap.vercel.app-22d3ee?style=flat-square)](https://a-imap.vercel.app) |
+| ♿ **Accesslens** | `Python` | [![Live](https://img.shields.io/badge/▶%20Live-HuggingFace%20Spaces-f59e0b?style=flat-square)](https://huggingface.co/spaces/Arshal7xy/AccessAudit) |
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
 ---
@@ -124,7 +198,7 @@ class MeowMan:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MeowMan007&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=c026d3&area=true&area_color=7c3aed&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MeowMan007&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=c026d3&area=true&area_color=7c3aed&hide_border=true&custom_title=MeowMan007's%20Contribution%20Graph&radius=8" width="100%" />
 
 </div>
 
@@ -135,10 +209,24 @@ class MeowMan:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MeowMan007/MeowMan007/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MeowMan007/MeowMan007/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/MeowMan007/MeowMan007/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MeowMan007/MeowMan007/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MeowMan007/MeowMan007/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MeowMan007/MeowMan007/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="80%" />
 
 </div>
 
@@ -146,15 +234,25 @@ class MeowMan:
 
 <div align="center">
 
-### 💜 Let's Connect & Build Something Amazing!
+### 🤝 Let's Connect & Build Something Amazing Together!
 
-[![GitHub](https://img.shields.io/badge/GitHub-MeowMan007-181717?style=for-the-badge&logo=github)](https://github.com/MeowMan007)
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-%40MeowMan007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MeowMan007)
+&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-arshals.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://arshals.vercel.app/)
+&nbsp;
 [![Placidus AI](https://img.shields.io/badge/Project-Placidus%20AI-c026d3?style=for-the-badge&logo=openai&logoColor=white)](https://placidus-ai.vercel.app/)
 
 <br/>
 
-<!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed,c026d3&height=120&section=footer&animation=fadeIn" />
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
+
+**"Every expert was once a beginner. Keep coding! 💜"**
+
+<br/>
+
+<!-- ═══ FOOTER WAVE ═══ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=130&section=footer&animation=fadeIn" />
 
 </div>
