@@ -1,241 +1,206 @@
 <div align="center">
 
-<!-- ═══ ANIMATED HEADER BANNER ═══ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Hey!%20I'm%20Arshal%20%F0%9F%91%8B&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=%40MeowMan007%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Builder&descAlignY=60&descColor=c4b5fd&animation=fadeIn" />
+# 🐱 MEOW.MD — THE ULTIMATE FELINE TERMINAL 🐾
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=FFD166&vCenter=true&multiline=true&width=620&height=100&lines=System.out.println(%22Meow%20World!%20%F0%9F%90%BE%22);;Initializing+9+Lives+Protocol...;Status%3A+100%25+Catnip+Powered+%E2%9A%A1;Target+Acquired%3A+Red+Laser+Dot+%F0%9F%94%B4" alt="Typing SVG" />
 
-<!-- ═══ TYPING ANIMATION ═══ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Full-Stack+Developer;%F0%9F%A4%96+AI+%26+ML+Enthusiast;%F0%9F%90%8D+Python+%7C+JavaScript+%7C+TypeScript;%E2%98%81%EF%B8%8F+Cloud+Engineer+%7C+AWS+%7C+Vercel;%F0%9F%93%8A+Data+Analyst+%7C+Pandas+%7C+NumPy;%E2%9C%A8+Always+Learning%2C+Always+Building!" alt="Typing SVG" />
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" alt="Bongo Cat" />
+</p>
+
+<!-- STATS & THEME BADGES (Yellow, Red, White, Green accents) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/ENERGY-100%25-FFD166?style=for-the-badge&logo=lightning&logoColor=black" />
+  <img src="https://img.shields.io/badge/ZOOMIES-ACTIVATED-EF476F?style=for-the-badge&logo=speedtest&logoColor=white" />
+  <img src="https://img.shields.io/badge/MOOD-PURRFECT-FFFFFF?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/CATNIP-FRESH_GREEN-06D6A0?style=for-the-badge&logo=leaf&logoColor=black" />
+  <img src="https://img.shields.io/badge/LIVES-9%20%2F%209-FF5722?style=for-the-badge&logo=heart&logoColor=white" />
+</p>
+
+---
+
+</div>
+
+## 🖥️ `neofetch --meow` (Feline OS System Info)
+
+```yaml
+          /\_/\           OS: MeowOS v9.42 (x86_purr)
+         ( o.o )          Host: Warm Keyboard Pro Max (55°C)
+          > ^ <           Kernel: 6.8.0-zoomies-generic
+         /|   |\          Uptime: 9 Lives, 3 Hours, 42 Naps
+        (_|___|_)         Shell: zsh (Zero Sleep Hours)
+       (____|____)        Resolution: 4K Red Dot Tracking (3840x2160)
+                          CPU: MeowM3 Ultra @ 4.80 GHz (Overclocked with Catnip)
+                          GPU: RTX 5090 Feline Ray-Tracing Edition
+                          Memory: 62.4 GiB / 64.0 GiB (Running 3AM Zoomies)
+                          Palette: [🟡 #FFD166] [🔴 #EF476F] [⚪ #FFFFFF] [🟢 #06D6A0]
+```
+
+---
+
+## 🎮 CHOOSE YOUR CAT RPG CLASS
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <h3>🟠 ORANGE CHONK</h3>
+      <p><b>Class:</b> Tank / Chaos Mage</p>
+      <p><b>Special Move:</b> <i>Shared Braincell Blast</i></p>
+      <p><b>HP:</b> 2500 / 2500</p>
+      <img src="https://img.shields.io/badge/Single_Braincell-ACTIVE-FFD166?style=flat-square" />
+    </td>
+    <td align="center" width="25%">
+      <h3>⚫ VOID SHADOW</h3>
+      <p><b>Class:</b> Rogue / Assassin</p>
+      <p><b>Special Move:</b> <i>Midnight Ankle Strike</i></p>
+      <p><b>Stealth:</b> 100% in Dark Rooms</p>
+      <img src="https://img.shields.io/badge/Stealth_Mode-100%25-EF476F?style=flat-square" />
+    </td>
+    <td align="center" width="25%">
+      <h3>⚪ SNOW CLOUD</h3>
+      <p><b>Class:</b> Paladin / Royalty</p>
+      <p><b>Special Move:</b> <i>Fur Shed Over Black Clothes</i></p>
+      <p><b>Charisma:</b> +9999</p>
+      <img src="https://img.shields.io/badge/Royalty_Status-PURE_WHITE-FFFFFF?style=flat-square&logoColor=black" />
+    </td>
+    <td align="center" width="25%">
+      <h3>🟢 FOREST CALICO</h3>
+      <p><b>Class:</b> Druid / Alchemist</p>
+      <p><b>Special Move:</b> <i>Indoor Plant Nibble</i></p>
+      <p><b>Agility:</b> S-Tier Wall Runner</p>
+      <img src="https://img.shields.io/badge/Catnip_Herbalist-READY-06D6A0?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 LIVE SKILL & STATS MATRIX
+
+| Skill Attribute | Power Level | Visual Gauge | Status |
+| :--- | :--- | :--- | :--- |
+| **Speed (3 AM Zoomies)** | `9999 DPI` | `████████████████████` 🟡 | ![#FFD166](https://img.shields.io/badge/MAX-FFD166?style=flat-square&labelColor=1e1e2e) |
+| **Laser Dot Hunting** | `99.8% Accuracy` | `██████████████████░░` 🔴 | ![#EF476F](https://img.shields.io/badge/HUNTING-EF476F?style=flat-square&labelColor=1e1e2e) |
+| **Box Fitting ("If It Fits, I Sits")** | `100% Universal` | `████████████████████` ⚪ | ![#FFFFFF](https://img.shields.io/badge/FITTED-FFFFFF?style=flat-square&labelColor=1e1e2e&logoColor=black) |
+| **Catnip Synergy & Herbology** | `High Resonance` | `█████████████████░░░` 🟢 | ![#06D6A0](https://img.shields.io/badge/HERBAL-06D6A0?style=flat-square&labelColor=1e1e2e) |
+| **Keyboard Walking & Code Typing** | `Legendary (git push -f)`| `████████████████████` 🟡 | ![#FFD166](https://img.shields.io/badge/PUSHED-FFD166?style=flat-square&labelColor=1e1e2e) |
+| **Gravity Checking (Push Glass off Edge)**| `100% Success` | `████████████████████` 🔴 | ![#EF476F](https://img.shields.io/badge/TESTED-EF476F?style=flat-square&labelColor=1e1e2e) |
+
+---
+
+## 🐾 DAILY FELINE QUESTS & OBJECTIVES
+
+- [x] **04:30 AM** — Run sprint laps across the living room at supersonic speeds
+- [x] **06:00 AM** — Sing the song of our ancestors directly into human's ear
+- [x] **08:15 AM** — Inspect food bowl (Food is only in middle, bowl is practically empty!)
+- [x] **11:00 AM** — Sleep in the square beam of sunlight moving across the rug
+- [ ] **02:30 PM** — Walk across mechanical keyboard while human is in Slack meeting
+- [ ] **05:00 PM** — Attempt to capture the evasive, elusive **Red Laser Dot**
+- [ ] **09:00 PM** — Stare intensely at a blank wall at nothing to unnerve human
+- [ ] **11:45 PM** — Initiate midnight parkour training session
+
+---
+
+## 🗣️ THE FELINE-HUMAN TRANSLATOR
+
+> *Translate everyday vocalizations into their true developer/cat meanings.*
+
+```
+┌──────────────────────────────┬────────────────────────────────────────────────────────┐
+│ Cat Vocalization             │ Human Translation                                      │
+├──────────────────────────────┼────────────────────────────────────────────────────────┤
+│ 🔊 "Meow"                    │ "Hey human, acknowledge my royal presence immediately."│
+│ 🔊 "Mrow?"                   │ "Did you just open a can or is that another meeting?"   │
+│ 🔊 "EK-EK-EK-EK"             │ "Target bird spotted through the window. Engaging aim."│
+│ 🔊 "PURRRRRR..."             │ "Battery charged to 100%. Dopamine protocol active."   │
+│ 🔊 "HSSSSS!"                 │ "Syntax Error on Line 404: Vacuum Cleaner detected."   │
+│ 🔊 *Stares in silence*       │ "I am currently judging your life choices and code."   │
+└──────────────────────────────┴────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🎁 INTERACTIVE TREATS & SECRET VAULTS
+
+<details>
+<summary><b>🟡 CLICK TO DISPENSE CRUNCHY TREAT [Loot Drop]</b></summary>
+<br>
+
+```
+    /|_/|       ________________________________________
+   / ^ ^ \     /                                        \
+  (   "   )   <   CRUNCH CRUNCH! You gained +50 Energy!  >
+   )===(       \________________________________________/
+  (/   \)
+```
+> **Item Acquired:** `[Legendary Tuna Nibble]` ⭐⭐⭐⭐⭐  
+> *Effect: +20% zoomies sprint velocity for 10 minutes.*
+</details>
+
+<details>
+<summary><b>🔴 CLICK TO OPEN THE MEOW FORTUNE COOKIE [Wisdom]</b></summary>
+<br>
+
+> 🥠 **Feline Proverb #42:**  
+> *"If you cannot catch the red laser, sit on the human's mouse. Control the source."*
+>
+> 💡 **Developer Cat Proverb:**  
+> *"A bug in production is simply an undocumented feature requiring a nap to resolve."*
+</details>
+
+<details>
+<summary><b>🟢 CLICK TO ACTIVATE ORGANIC CATNIP FIELD [Buff Zone]</b></summary>
+<br>
+
+```
+   🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿
+   🌿  ( /\_/\ )   "THE CATNIP VIBES ARE UNMATCHED"   🌿
+   🌿  ( ='.'= )                                     🌿
+   🌿  (")_(")     Euphoria: 100% | Chill: Infinite   🌿
+   🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿
+```
+</details>
+
+<details>
+<summary><b>⚪ CLICK FOR AUDIO MEOW SOUNDBOARD [ASCII Edition]</b></summary>
+<br>
+
+```
+[ ▶ PLAY: Soft Purr ]    ══════════════════● 03:42 / 10:00 (Looping)
+[ ▶ PLAY: 3AM Zoomies ]  ███████████████████ 11:11 / 11:11 (Ear-damage Mode)
+[ ▶ PLAY: Can Opener ]   ●══════════════════ 00:01 / 00:05 (Instant Wakeup)
+```
+</details>
+
+---
+
+## 📜 THE LAWS OF FELINE PHYSICS
+
+1. **The Law of Cat Solid/Fluid Duality**: A cat will comfortably take the shape of any container (box, glass jar, sink, or cardboard carton) regardless of volume constraints.
+2. **The Law of Keyboard Gravitation**: A warm laptop keyboard exerts a gravitational pull directly proportional to the urgency of the human's deadline.
+3. **The Law of Door Indecision**: A closed door must be opened immediately. Once opened, the cat must stand directly on the threshold and ponder existence for at least 3 minutes.
+4. **The Law of The Red Dot**: The red dot travels at the speed of light, but the cat's claws will one day grasp reality itself.
+
+---
+
+## 🌐 GITHUB & FORUM LEADERBOARD STATS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=github&show_icons=true&theme=tokyonight&title_color=FFD166&text_color=FFFFFF&icon_color=EF476F&bg_color=161b22&border_color=06D6A0&hide_border=false" width="48%" alt="Feline Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github&layout=compact&theme=tokyonight&title_color=FFD166&text_color=FFFFFF&bg_color=161b22&border_color=EF476F&hide_border=false" width="48%" alt="Top Languages" />
 
 <br/><br/>
 
-<!-- ═══ BADGES ROW ═══ -->
-<a href="https://github.com/MeowMan007">
-  <img src="https://komarev.com/ghpvc/?username=MeowMan007&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
-</a>
-&nbsp;
-<img src="https://img.shields.io/github/followers/MeowMan007?style=for-the-badge&color=c026d3&labelColor=1a1a2e&label=Followers&logo=github" />
-&nbsp;
-<img src="https://img.shields.io/badge/Repos-25%2B-22d3ee?style=for-the-badge&labelColor=1a1a2e&logo=githubactions&logoColor=22d3ee" />
-&nbsp;
-<img src="https://img.shields.io/badge/Deployments-6%2B-f59e0b?style=for-the-badge&labelColor=1a1a2e&logo=vercel&logoColor=f59e0b" />
+<!-- RETRO VISITOR COUNTER & FOOTER BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=meowman-feline-os&label=TOTAL+PETS+RECEIVED&color=FFD166&style=flat-square" alt="Visitor Counter" />
+  <img src="https://img.shields.io/badge/STATUS-CHILLING_ON_KEYBOARD-EF476F?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/POWERED_BY-CATNIP_%26_LOVE-06D6A0?style=flat-square" alt="Catnip" />
+</p>
 
-</div>
-
----
-
-## ⚔️ Developer RPG Stats — Arshal `[LVL 99]`
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║           🧙 MEOWMAN007 — ARCANE CODE MAGE                  ║
-║                    ★ ★ ★ ★ ★                                ║
-╠══════════════════════════════════════════════════════════════╣
-║  CLASS    :  Full-Stack Sorcerer + AI Alchemist              ║
-║  ORIGIN   :  The Internet  🌐                                ║
-║  GUILD    :  GitHub  [ MeowMan007 ]                          ║
-║  STATUS   :  ⚡ ONLINE & BUILDING                            ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  ❤️  HP      ████████████████████░░░░  90 / 100             ║
-║  💙  MANA    ███████████████████░░░░░  85 / 100  (coffee ☕) ║
-║  ⚡  SPEED   ██████████████████░░░░░░  80 / 100  (fast ship) ║
-║  🛡️  FOCUS   █████████████████████░░  95 / 100             ║
-║                                                              ║
-╠══════════════════════════════════════════════════════════════╣
-║  SKILLS UNLOCKED                                             ║
-║                                                              ║
-║  🐍 Python       ████████████████████  ★★★★★  MASTERED     ║
-║  ⚡ JavaScript   ████████████████████  ★★★★★  MASTERED     ║
-║  💙 TypeScript   █████████████████░░░  ★★★★☆  EXPERT       ║
-║  ⚛️  React        ████████████████░░░░  ★★★★☆  EXPERT       ║
-║  ☁️  AWS          ██████████████░░░░░░  ★★★☆☆  ADVANCED     ║
-║  🤖 AI / ML      █████████████░░░░░░░  ★★★☆☆  ADVANCED     ║
-║  📊 Data Sci     ████████████░░░░░░░░  ★★★☆☆  ADVANCED     ║
-╠══════════════════════════════════════════════════════════════╣
-║  ACHIEVEMENTS                                                ║
-║  🏅 25+ Repos Deployed    🏅 6 Live Apps Built               ║
-║  🏅 AI Tools Creator      🏅 Cloud Architect                 ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 🗺️ Tech Skill Tree
-
-```mermaid
-mindmap
-  root((🧙 Arshal))
-    🐍 Python
-      Flask
-      Pandas
-      NumPy
-      PyTorch
-    ⚡ JavaScript
-      React ⚛️
-      Node.js
-      TypeScript
-    ☁️ Cloud
-      AWS Lambda
-      Vercel
-      Railway
-    🤖 AI & ML
-      HuggingFace 🤗
-      LLMs
-      Data Analysis
-    🗄️ Databases
-      MongoDB
-      MySQL
-```
-
----
-
-## 📜 Active Quest Log
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    📋 QUEST LOG                             │
-├──────┬──────────────────────────────────────┬───────────────┤
-│  ⚔️  │ Build Placidus AI                    │  ✅ DEPLOYED  │
-│  ⚔️  │ Launch Portfolio Site                │  ✅ LIVE      │
-│  ⚔️  │ Create AImap Explorer                │  ✅ LIVE      │
-│  ⚔️  │ Ship Accesslens on HuggingFace       │  ✅ COMPLETE  │
-│  ⚔️  │ Deploy Serverless App on AWS         │  ✅ COMPLETE  │
-│  🔮  │ Master Advanced AI/ML Techniques     │  🔄 IN PROG  │
-│  🔮  │ Build next big AI product            │  🔄 IN PROG  │
-│  🗡️  │ Contribute to Open Source            │  🔜 UPCOMING │
-└──────┴──────────────────────────────────────┴───────────────┘
-```
-
----
-
-## 🛠️ Tech Stack & Skills
-
-<div align="center">
-
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" />
-
-### ⚡ Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,flask,express&theme=dark" />
-
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,vercel,git,github,docker&theme=dark" />
-
-### 🗄️ Databases & Tools
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postman,vscode&theme=dark" />
-
-</div>
-
----
-
-## ⚡ GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MeowMan007&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeowMan007&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=MeowMan007&theme=tokyonight-duo&hide_border=true&background=0D0D1A&ring=A78BFA&fire=F59E0B&currStreakLabel=C4B5FD&sideLabels=94A3B8&dates=475569&stroke=7C3AED" />
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 🛠️ Stack | 🌐 Live |
-|:---:|:---:|:---:|
-| 🤖 **[Placidus AI](https://github.com/MeowMan007/Placidus_ai)** | `JavaScript` | [![Live](https://img.shields.io/badge/▶%20PLAY-7c3aed?style=for-the-badge)](https://placidus-ai.vercel.app/) |
-| 🌐 **[Portfolio](https://github.com/MeowMan007/portfolio)** | `TypeScript` | [![Live](https://img.shields.io/badge/▶%20VISIT-c026d3?style=for-the-badge)](https://arshals.vercel.app/) |
-| 🗺️ **[AImap](https://github.com/MeowMan007/AImap)** | `HTML` | [![Live](https://img.shields.io/badge/▶%20EXPLORE-22d3ee?style=for-the-badge)](https://a-imap.vercel.app) |
-| ♿ **[Accesslens](https://github.com/MeowMan007/Accesslens)** | `Python` | [![Live](https://img.shields.io/badge/▶%20LAUNCH-f59e0b?style=for-the-badge)](https://huggingface.co/spaces/Arshal7xy/AccessAudit) |
-| ☁️ **[Serverless AWS](https://github.com/MeowMan007/serverless-webapp-aws)** | `AWS` | [![Code](https://img.shields.io/badge/⌨%20CODE-10b981?style=for-the-badge)](https://github.com/MeowMan007/serverless-webapp-aws) |
-| 📊 **[Retail Analysis](https://github.com/MeowMan007/retail-sales-data-analysis)** | `Python` | [![Code](https://img.shields.io/badge/⌨%20CODE-10b981?style=for-the-badge)](https://github.com/MeowMan007/retail-sales-data-analysis) |
-
-</div>
-
----
-
-## 🏆 Achievements Unlocked
-
-```
-  🥇 Consistent Builder     — 25+ repos on GitHub
-  🥇 Deployer               — 6+ live apps in production
-  🥇 AI Crafter             — Built & deployed AI tools
-  🥇 Cloud Rider            — Serverless app on AWS
-  🥇 Full-Stack Warrior     — Frontend + Backend + DB
-  🥇 Data Wizard            — Python data analysis pipelines
-  🔒 10 Stars               — Keep building! (in progress...)
-  🔒 Open Source Hero       — Coming soon...
-```
-
----
-
-## 📊 Contribution Map
-
-```mermaid
-gitGraph
-   commit id: "🚀 Joined GitHub"
-   commit id: "🐍 First Python Project"
-   branch ai-branch
-   commit id: "🤖 AI Humanizer"
-   commit id: "♿ Accesslens"
-   checkout main
-   merge ai-branch id: "🤝 AI Merged"
-   branch web-branch
-   commit id: "🌐 Portfolio Live"
-   commit id: "🗺️ AImap"
-   commit id: "⚡ Placidus AI"
-   checkout main
-   merge web-branch id: "✅ Web Merged"
-   commit id: "☁️ Serverless AWS"
-   commit id: "📊 Retail Analysis"
-   commit id: "🔮 Next Big Thing..."
-```
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MeowMan007/MeowMan007/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MewMan007/MeowMan007/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/MeowMan007/MeowMan007/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-</div>
-
----
-
-<div align="center">
-
-```
-██████╗  ██╗   ██╗██╗██╗     ██████╗     ███████╗
-██╔══██╗ ██║   ██║██║██║     ██╔══██╗    ██╔════╝
-██████╔╝ ██║   ██║██║██║     ██║  ██║    ███████╗
-██╔══██╗ ██║   ██║██║██║     ██║  ██║    ╚════██║
-██████╔╝ ╚██████╔╝██║███████╗██████╔╝    ███████║
-╚═════╝   ╚═════╝ ╚═╝╚══════╝╚═════╝     ╚══════╝
-```
-
-### 🤝 Let's connect and build something epic!
-
-[![GitHub](https://img.shields.io/badge/GitHub-%40MeowMan007-181717?style=for-the-badge&logo=github)](https://github.com/MeowMan007)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-arshals.vercel.app-7c3aed?style=for-the-badge)](https://arshals.vercel.app/)
-&nbsp;
-[![Placidus AI](https://img.shields.io/badge/🤖%20Placidus%20AI-Live-c026d3?style=for-the-badge)](https://placidus-ai.vercel.app/)
-
-<br/>
-
-> *"Every line of code is a spell. Keep casting. 🧙‍♂️"*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=130&section=footer&animation=fadeIn" />
+<p align="center">
+  <sub>Made with 🐾, warm yellow amber, radiant red, crisp white, and fresh emerald green accents. Have a purr-fect day!</sub>
+</p>
 
 </div>
