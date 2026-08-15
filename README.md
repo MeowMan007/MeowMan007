@@ -1,236 +1,294 @@
 <div align="center">
 
-# 👋 Hey there, I'm <span style="color:#FFD166;">Meowman</span>! 🚀
+# 👋 Hi there, I'm <span style="color:#FFD166;">Arshal</span> (<a href="https://github.com/MeowMan007" style="color:#EF476F;">@MeowMan007</a>) 🚀
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFD166&vCenter=true&multiline=true&width=650&height=90&lines=Full-Stack+Developer+%26+Open-Source+Enthusiast;Crafting+Fast%2C+Scalable+%26+Beautiful+Web+Apps;Turning+Caffeine+%26+Code+into+Shipped+Products+%E2%9A%A1;Always+learning%2C+building%2C+and+breaking+things+%F0%9F%94%A7" alt="Typing SVG" />
+<a href="https://github.com/MeowMan007">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFD166&vCenter=true&multiline=true&width=680&height=90&lines=Full-Stack+Developer+%26+AI+Agent+Architect;Building+Autonomous+AI+Tools+%26+Scalable+Web+Apps;Python+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Next.js;Shipping+Ideas+into+Production+Daily+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- TOP STATUS BADGES (Yellow, Red, White, Green Theme) -->
+<!-- TOP STATUS BADGES (Yellow, Red, White, Green Accents) -->
 <p align="center">
-  <a href="https://github.com"><img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLAB-06D6A0?style=for-the-badge&logo=codeforces&logoColor=black" alt="Status" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/FOCUS-FULL_STACK_DEV-FFD166?style=for-the-badge&logo=react&logoColor=black" alt="Focus" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LOCATION-EARTH-EF476F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/COFFEE-ACTIVE_LEVEL_100%25-FFFFFF?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Coffee" /></a>
+  <a href="https://arshals.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-arshals.vercel.app-FFD166?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/arshalsaifi/"><img src="https://img.shields.io/badge/LINKEDIN-in%2Farshalsaifi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/MeowMan007"><img src="https://img.shields.io/badge/STATUS-OPEN_FOR_OPPORTUNITIES-06D6A0?style=for-the-badge&logo=codeforces&logoColor=black" alt="Status" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LOCATION-NOIDA%2C_INDIA-EF476F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/DEV_MODE-100%25_SHIPPING-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="Dev Mode" /></a>
 </p>
 
-<!-- SOCIAL / CONTACT BUTTONS -->
+<!-- QUICK SOCIAL LINKS -->
 <p align="center">
-  <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=FFD166" alt="GitHub" /></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter" /></a>
-  <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="mailto:contact@example.com"><img src="https://img.shields.io/badge/Email-EF476F?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/MeowMan007"><img src="https://img.shields.io/badge/GitHub-@MeowMan007-181717?style=flat-square&logo=github&logoColor=FFD166" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/arshalsaifi/"><img src="https://img.shields.io/badge/LinkedIn-Arshal_Saifi-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://arshals.vercel.app"><img src="https://img.shields.io/badge/Website-arshals.vercel.app-EF476F?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:contact@arshals.vercel.app"><img src="https://img.shields.io/badge/Email-Get_In_Touch-06D6A0?style=flat-square&logo=gmail&logoColor=black" alt="Email" /></a>
 </p>
 
 ---
 
 </div>
 
-## 👨‍💻 About Me
+## 👨‍💻 `whoami` & Dev Profile
 
 ```yaml
-  ╭─────────────────────────────── Quick Profile ───────────────────────────────╮
-  │                                                                             │
-  │   💼 Current Role   : Software Engineer / Full-Stack Builder                │
-  │   🔭 Working On     : High-performance web apps & modern developer tools   │
-  │   🌱 Learning       : Distributed Systems, Rust, AI/Agent integrations      │
-  │   💬 Ask Me About   : TypeScript, React, Node.js, Next.js, API Architecture │
-  │   ⚡ Fun Fact       : I debug by rubber-ducking with my cat 🦆🐈            │
-  │   🎨 Theme Colors   : 🟡 #FFD166  🔴 #EF476F  ⚪ #FFFFFF  🟢 #06D6A0        │
-  │                                                                             │
-  ╰─────────────────────────────────────────────────────────────────────────────╯
+  ╭─────────────────────────────── Arshal's Terminal ───────────────────────────────╮
+  │                                                                                 │
+  │   👤 Name           : Arshal Saifi (@MeowMan007)                                │
+  │   📍 Location       : Noida, India                                              │
+  │   🌐 Portfolio      : https://arshals.vercel.app                                │
+  │   🔭 Current Focus  : AI Agents (Pydantic AI), Autonomous Workflows & Web Apps  │
+  │   🌱 Exploring      : High-concurrency systems, Cloud microservices & Web LLMs  │
+  │   💬 Ask Me About   : Python, Node.js, AI Integrations, TypeScript, Automation │
+  │   🎨 Palette        : 🟡 #FFD166 (Gold)  🔴 #EF476F (Ruby)  ⚪ #FFFFFF  🟢 #06D6A0 │
+  │                                                                                 │
+  ╰─────────────────────────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-## 🛠️ Tech Stack & Arsenal
+## 🛠️ Tech Stack & Capabilities
 
 <div align="center">
 
-### 🟡 Frontend & UI
+### 🟡 AI, Backend & Cloud
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pydantic_AI-FFD166?style=for-the-badge&logo=pydantic&logoColor=black" alt="Pydantic AI" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/AWS_Serverless-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Serverless" />
+  <img src="https://img.shields.io/badge/Telegram_Bot_API-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram API" />
+</p>
+
+### 🔴 Frontend & Languages
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-FFD166?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/HTML5_&_CSS3-EF476F?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5/CSS3" />
 </p>
 
-### 🔴 Backend, APIs & Databases
+### 🟢 Databases, DevOps & Tooling
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Python-FFD166?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-</p>
-
-### 🟢 DevOps, Tools & Workflow
-<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 </div>
 
 ---
 
-## 📈 GitHub Metrics & Analytics
-
-<div align="center">
-
-<table border="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=github&show_icons=true&theme=tokyonight&title_color=FFD166&text_color=FFFFFF&icon_color=EF476F&bg_color=161b22&border_color=06D6A0&hide_border=false" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=github&theme=tokyonight&background=161B22&border=EF476F&stroke=FFD166&ring=FFD166&fire=EF476F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=06D6A0" width="100%" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github&layout=compact&theme=tokyonight&title_color=FFD166&text_color=FFFFFF&bg_color=161b22&border_color=FFD166&hide_border=false" width="70%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 🚀 Featured Projects
+## 🚀 Featured Repositories & Real Projects
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🟡 <a href="#">Project Alpha — SaaS Web Platform</a></h3>
-      <p>A full-stack, high-concurrency cloud platform with real-time sync, automated workflows, and auth.</p>
+      <h3>🟡 <a href="https://github.com/MeowMan007/dental-booking-made-with-pydantic-ai">dental-booking-made-with-pydantic-ai</a></h3>
+      <p>Autonomous dental appointment scheduling agent built with <b>Pydantic AI</b> and Python. Implements robust validation, slot booking, and conversational memory.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pydantic_AI-FFD166?style=flat-square&logoColor=black" />
+        <img src="https://img.shields.io/badge/AI_Agents-06D6A0?style=flat-square" />
       </p>
-      <a href="#">⭐ View Repository</a> • <a href="#">🌐 Live Demo</a>
+      <a href="https://github.com/MeowMan007/dental-booking-made-with-pydantic-ai">📂 View Repository</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔴 <a href="#">Project Beta — Dev Productivity CLI</a></h3>
-      <p>An ultra-fast command-line tool built to supercharge developer workflows and automated deployments.</p>
+      <h3>🔴 <a href="https://github.com/MeowMan007/Ai-resume-analyser">Ai-resume-analyser</a></h3>
+      <p>AI-driven resume evaluation engine that parses candidate CVs, extracts core competencies, and scores skill compatibility against target job descriptions.</p>
       <p>
-        <img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/CLI-EF476F?style=flat-square" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/AI_Parser-EF476F?style=flat-square" />
+        <img src="https://img.shields.io/badge/Full_Stack-white?style=flat-square" />
       </p>
-      <a href="#">⭐ View Repository</a> • <a href="#">📦 NPM Package</a>
+      <a href="https://github.com/MeowMan007/Ai-resume-analyser">📂 View Repository</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🟢 <a href="#">Project Gamma — AI Prompt & Workflow Hub</a></h3>
-      <p>Intelligent workbench empowering developers to orchestrate multi-agent pipelines effortlessly.</p>
+      <h3>🟢 <a href="https://github.com/MeowMan007/Linkedin-Email-Finder">Linkedin-Email-Finder</a></h3>
+      <p>Automated lead intelligence & contact discovery tool built in TypeScript to extract, verify, and format LinkedIn contact details reliably.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI%20Agents-06D6A0?style=flat-square" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scraping_&_Data-06D6A0?style=flat-square" />
+        <img src="https://img.shields.io/badge/Automation-FFD166?style=flat-square" />
       </p>
-      <a href="#">⭐ View Repository</a> • <a href="#">🌐 Live Demo</a>
+      <a href="https://github.com/MeowMan007/Linkedin-Email-Finder">📂 View Repository</a>
     </td>
     <td width="50%" valign="top">
-      <h3>⚪ <a href="#">Project Delta — Modern Design System</a></h3>
-      <p>Accessible, modular UI component library crafted for clean interfaces and seamless DX.</p>
+      <h3>⚪ <a href="https://github.com/MeowMan007/telegram-ecommerce-node">telegram-ecommerce-node</a></h3>
+      <p>Full-stack Telegram bot e-commerce ecosystem built on Node.js featuring live catalog browsing, cart state management, and frictionless checkout.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Telegram_Bot-24A1DE?style=flat-square&logo=telegram&logoColor=white" />
+        <img src="https://img.shields.io/badge/E--Commerce-EF476F?style=flat-square" />
       </p>
-      <a href="#">⭐ View Repository</a> • <a href="#">📖 Documentation</a>
+      <a href="https://github.com/MeowMan007/telegram-ecommerce-node">📂 View Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🟡 <a href="https://github.com/MeowMan007/Accesslens">Accesslens</a></h3>
+      <p>Accessibility audit & visual tooling engine designed to identify readability barriers, inspect layouts, and deliver compliant web experiences.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Computer_Vision-FFD166?style=flat-square" />
+        <img src="https://img.shields.io/badge/Accessibility-06D6A0?style=flat-square" />
+      </p>
+      <a href="https://github.com/MeowMan007/Accesslens">📂 View Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔴 <a href="https://github.com/MeowMan007/Placidus_ai">Placidus_ai</a></h3>
+      <p>Smart automation & AI workflow application crafted to process multi-modal requests, generate insights, and automate repetitive tasks.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Workflow_AI-EF476F?style=flat-square" />
+        <img src="https://img.shields.io/badge/Productivity-white?style=flat-square" />
+      </p>
+      <a href="https://github.com/MeowMan007/Placidus_ai">📂 View Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🟢 <a href="https://github.com/MeowMan007/AImap">AImap</a></h3>
+      <p>Interactive interactive visual map and roadmap explorer guiding developers across the evolving artificial intelligence & LLM landscape.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/Visual_Map-06D6A0?style=flat-square" />
+        <img src="https://img.shields.io/badge/Open_Source-FFD166?style=flat-square" />
+      </p>
+      <a href="https://github.com/MeowMan007/AImap">📂 View Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚪ <a href="https://github.com/MeowMan007/retail-sales-data-analysis">retail-sales-data-analysis</a></h3>
+      <p>Comprehensive data analysis pipeline delivering deep sales insights, trend visualization, customer behavior analytics, and predictive forecasting.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Data_Analytics-EF476F?style=flat-square" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      </p>
+      <a href="https://github.com/MeowMan007/retail-sales-data-analysis">📂 View Repository</a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🎯 Current Goals & Quests for 2026
+## 📈 Real-Time GitHub Analytics & Metrics
 
-- [x] 🚀 Master Next.js App Router & Server Actions
-- [x] 📦 Publish open-source npm packages with 1,000+ downloads
-- [ ] 🦀 Deep dive into Rust & WebAssembly for high-perf systems
-- [ ] 🤖 Build and deploy production AI agent workflows
-- [ ] 🌟 Contribute to 5+ major open source repositories
-- [ ] ☕ Keep daily coffee intake within healthy (mostly) limits
+<div align="center">
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=MeowMan007&show_icons=true&theme=tokyonight&title_color=FFD166&text_color=FFFFFF&icon_color=EF476F&bg_color=161b22&border_color=06D6A0&hide_border=false" width="100%" alt="MeowMan007 Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeowMan007&theme=tokyonight&background=161B22&border=EF476F&stroke=FFD166&ring=FFD166&fire=EF476F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=06D6A0" width="100%" alt="MeowMan007 Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeowMan007&layout=compact&theme=tokyonight&title_color=FFD166&text_color=FFFFFF&bg_color=161b22&border_color=FFD166&hide_border=false" width="65%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-## 💡 Fun Developer Stuff & Easter Eggs
+## 🎯 2026 Developer Roadmap & Focus
+
+- [x] 🤖 Build production-grade agents with **Pydantic AI** & FastAPI
+- [x] ⚡ Launch high-conversion Telegram commerce solutions (`telegram-ecommerce-node`)
+- [x] 🔍 Develop automated recruitment & LinkedIn intelligence workflows
+- [ ] 🚀 Scale AI pipeline microservices on AWS Serverless infrastructure
+- [ ] 🦀 Deep-dive into high-performance Rust backend systems
+- [ ] 🌟 Contribute to top open-source AI developer tooling
+
+---
+
+## 💡 Fun Corner & Interactive Secrets
 
 <details>
-<summary><b>🟡 Click to generate a Random Dev Joke</b></summary>
-<br>
-
-> **Q:** Why do programmers prefer dark mode?  
-> **A:** Because light attracts bugs! 🪲💡  
-> 
-> *There are 10 types of people in this world: those who understand binary, and those who don't.*
-</details>
-
-<details>
-<summary><b>🔴 Click to see My Coding Playlist Vibe</b></summary>
+<summary><b>🟡 Click to view Arshal's Daily Developer Routine</b></summary>
 <br>
 
 ```
-  [ 🎧 Currently Jamming ]
+  08:30 AM ─── ☕ Brew Fresh Dark Roast & Review Pull Requests
+  10:00 AM ─── 🧠 Deep Work: Architecting Agent Systems & Full-Stack APIs
+  02:00 PM ─── 🛠️ Prototyping & Deploying New Builds on Vercel/AWS
+  06:00 PM ─── 📖 Exploring New AI Frameworks & Open-Source Research
+  09:00 PM ─── 🚀 Side Projects, Terminal Tweaks & Music Jamming
+```
+</details>
+
+<details>
+<summary><b>🔴 Click for a Developer Chuckle</b></summary>
+<br>
+
+> **Q:** Why did the developer go broke?  
+> **A:** Because they used up all their cache! 💸
+> 
+> *"There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors."*
+</details>
+
+<details>
+<summary><b>🟢 Click to inspect My Dev Setup & Gear</b></summary>
+<br>
+
+- **💻 Primary Machine:** High-performance Linux & Developer Workstation
+- **⌨️ Keyboard:** Custom Mechanical Keyboard (Linear Yellow Switches)
+- **🖥️ Display:** Color-calibrated IPS Multi-Monitor Setup
+- **⚙️ Terminal & Editor:** VS Code / ZSH with Custom Fira Code Ligatures
+- **🍵 Fuel:** Chai / Dark Roast Coffee & Good Music
+</details>
+
+<details>
+<summary><b>⚪ Click to view Current Vibe / Playlist</b></summary>
+<br>
+
+```
+  [ 🎧 Deep Focus Mode ]
   ┌─────────────────────────────────────────────────────────────┐
-  │  🎵 Track  : Synthwave / Lofi Beats for Deep Focus Code     │
-  │  🔊 Audio  : ████████████████████░░ 85%                     │
-  │  ☕ Status : In the Zone • Do Not Disturb                   │
+  │  🎵 Track  : Cyberpunk / Synthwave Code Flow                │
+  │  🔊 Audio  : ████████████████████░░ 88%                     │
+  │  ⚡ Status : Locked in • Code is Compiling                  │
   └─────────────────────────────────────────────────────────────┘
 ```
-</details>
-
-<details>
-<summary><b>🟢 Click to inspect My Desk & Dev Setup</b></summary>
-<br>
-
-- **🖥️ Monitor:** 34" Ultrawide 144Hz IPS
-- **⌨️ Keyboard:** Custom Mechanical (Lubed Switches, Warm Yellow Backlight)
-- **🖱️ Mouse:** Logitech MX Master 3S
-- **💻 Machine:** MacBook Pro / Custom Linux Rig
-- **☕ Mug:** *"It compiles on my machine"*
 </details>
 
 ---
 
 <div align="center">
 
-### 🏆 GitHub Contribution Journey
+### 🐍 GitHub Contribution Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MeowMan007/MeowMan007/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MeowMan007/MeowMan007/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 <br/><br/>
 
 <!-- PROFILE VIEWS & FOOTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meowman-profile&label=PROFILE+VIEWS&color=FFD166&style=flat-square" alt="Visitor Counter" />
-  <img src="https://img.shields.io/badge/MADE_WITH-%E2%9D%A4_%26_CODE-EF476F?style=flat-square" alt="Made With Love" />
-  <img src="https://img.shields.io/badge/UPTIME-99.9%25-06D6A0?style=flat-square" alt="Uptime" />
+  <img src="https://komarev.com/ghpvc/?username=MeowMan007&label=PROFILE+VIEWS&color=FFD166&style=flat-square" alt="Visitor Counter" />
+  <img src="https://img.shields.io/badge/MADE_BY-ARSHAL_SAIFI-EF476F?style=flat-square" alt="Made by Arshal" />
+  <img src="https://img.shields.io/badge/STATUS-READY_TO_BUILD-06D6A0?style=flat-square" alt="Ready to build" />
 </p>
 
 <p align="center">
-  <sub>⭐️ If you like what you see, feel free to star some of my repositories! Thanks for stopping by! ⭐️</sub>
+  <sub>⭐️ Star my repositories on <a href="https://github.com/MeowMan007">@MeowMan007</a> or connect on <a href="https://www.linkedin.com/in/arshalsaifi/">LinkedIn</a>! Let's build together! 🚀</sub>
 </p>
 
 </div>
