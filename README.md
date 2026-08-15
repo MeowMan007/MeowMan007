@@ -1,206 +1,236 @@
 <div align="center">
 
-# 🐱 MEOW.MD — THE ULTIMATE FELINE TERMINAL 🐾
+# 👋 Hey there, I'm <span style="color:#FFD166;">Meowman</span>! 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=FFD166&vCenter=true&multiline=true&width=620&height=100&lines=System.out.println(%22Meow%20World!%20%F0%9F%90%BE%22);;Initializing+9+Lives+Protocol...;Status%3A+100%25+Catnip+Powered+%E2%9A%A1;Target+Acquired%3A+Red+Laser+Dot+%F0%9F%94%B4" alt="Typing SVG" />
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFD166&vCenter=true&multiline=true&width=650&height=90&lines=Full-Stack+Developer+%26+Open-Source+Enthusiast;Crafting+Fast%2C+Scalable+%26+Beautiful+Web+Apps;Turning+Caffeine+%26+Code+into+Shipped+Products+%E2%9A%A1;Always+learning%2C+building%2C+and+breaking+things+%F0%9F%94%A7" alt="Typing SVG" />
+</a>
 
+<br/>
+
+<!-- TOP STATUS BADGES (Yellow, Red, White, Green Theme) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" alt="Bongo Cat" />
+  <a href="https://github.com"><img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLAB-06D6A0?style=for-the-badge&logo=codeforces&logoColor=black" alt="Status" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/FOCUS-FULL_STACK_DEV-FFD166?style=for-the-badge&logo=react&logoColor=black" alt="Focus" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LOCATION-EARTH-EF476F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/COFFEE-ACTIVE_LEVEL_100%25-FFFFFF?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Coffee" /></a>
 </p>
 
-<!-- STATS & THEME BADGES (Yellow, Red, White, Green accents) -->
+<!-- SOCIAL / CONTACT BUTTONS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/ENERGY-100%25-FFD166?style=for-the-badge&logo=lightning&logoColor=black" />
-  <img src="https://img.shields.io/badge/ZOOMIES-ACTIVATED-EF476F?style=for-the-badge&logo=speedtest&logoColor=white" />
-  <img src="https://img.shields.io/badge/MOOD-PURRFECT-FFFFFF?style=for-the-badge&logo=github&logoColor=black" />
-  <img src="https://img.shields.io/badge/CATNIP-FRESH_GREEN-06D6A0?style=for-the-badge&logo=leaf&logoColor=black" />
-  <img src="https://img.shields.io/badge/LIVES-9%20%2F%209-FF5722?style=for-the-badge&logo=heart&logoColor=white" />
+  <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=FFD166" alt="GitHub" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter" /></a>
+  <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="mailto:contact@example.com"><img src="https://img.shields.io/badge/Email-EF476F?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
 </div>
 
-## 🖥️ `neofetch --meow` (Feline OS System Info)
+## 👨‍💻 About Me
 
 ```yaml
-          /\_/\           OS: MeowOS v9.42 (x86_purr)
-         ( o.o )          Host: Warm Keyboard Pro Max (55°C)
-          > ^ <           Kernel: 6.8.0-zoomies-generic
-         /|   |\          Uptime: 9 Lives, 3 Hours, 42 Naps
-        (_|___|_)         Shell: zsh (Zero Sleep Hours)
-       (____|____)        Resolution: 4K Red Dot Tracking (3840x2160)
-                          CPU: MeowM3 Ultra @ 4.80 GHz (Overclocked with Catnip)
-                          GPU: RTX 5090 Feline Ray-Tracing Edition
-                          Memory: 62.4 GiB / 64.0 GiB (Running 3AM Zoomies)
-                          Palette: [🟡 #FFD166] [🔴 #EF476F] [⚪ #FFFFFF] [🟢 #06D6A0]
+  ╭─────────────────────────────── Quick Profile ───────────────────────────────╮
+  │                                                                             │
+  │   💼 Current Role   : Software Engineer / Full-Stack Builder                │
+  │   🔭 Working On     : High-performance web apps & modern developer tools   │
+  │   🌱 Learning       : Distributed Systems, Rust, AI/Agent integrations      │
+  │   💬 Ask Me About   : TypeScript, React, Node.js, Next.js, API Architecture │
+  │   ⚡ Fun Fact       : I debug by rubber-ducking with my cat 🦆🐈            │
+  │   🎨 Theme Colors   : 🟡 #FFD166  🔴 #EF476F  ⚪ #FFFFFF  🟢 #06D6A0        │
+  │                                                                             │
+  ╰─────────────────────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-## 🎮 CHOOSE YOUR CAT RPG CLASS
+## 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+
+### 🟡 Frontend & UI
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-FFD166?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/HTML5_&_CSS3-EF476F?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5/CSS3" />
+</p>
+
+### 🔴 Backend, APIs & Databases
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Python-FFD166?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+</p>
+
+### 🟢 DevOps, Tools & Workflow
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
+</div>
+
+---
+
+## 📈 GitHub Metrics & Analytics
+
+<div align="center">
+
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=github&show_icons=true&theme=tokyonight&title_color=FFD166&text_color=FFFFFF&icon_color=EF476F&bg_color=161b22&border_color=06D6A0&hide_border=false" width="100%" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=github&theme=tokyonight&background=161B22&border=EF476F&stroke=FFD166&ring=FFD166&fire=EF476F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=06D6A0" width="100%" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github&layout=compact&theme=tokyonight&title_color=FFD166&text_color=FFFFFF&bg_color=161b22&border_color=FFD166&hide_border=false" width="70%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="25%">
-      <h3>🟠 ORANGE CHONK</h3>
-      <p><b>Class:</b> Tank / Chaos Mage</p>
-      <p><b>Special Move:</b> <i>Shared Braincell Blast</i></p>
-      <p><b>HP:</b> 2500 / 2500</p>
-      <img src="https://img.shields.io/badge/Single_Braincell-ACTIVE-FFD166?style=flat-square" />
+    <td width="50%" valign="top">
+      <h3>🟡 <a href="#">Project Alpha — SaaS Web Platform</a></h3>
+      <p>A full-stack, high-concurrency cloud platform with real-time sync, automated workflows, and auth.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+      <a href="#">⭐ View Repository</a> • <a href="#">🌐 Live Demo</a>
     </td>
-    <td align="center" width="25%">
-      <h3>⚫ VOID SHADOW</h3>
-      <p><b>Class:</b> Rogue / Assassin</p>
-      <p><b>Special Move:</b> <i>Midnight Ankle Strike</i></p>
-      <p><b>Stealth:</b> 100% in Dark Rooms</p>
-      <img src="https://img.shields.io/badge/Stealth_Mode-100%25-EF476F?style=flat-square" />
+    <td width="50%" valign="top">
+      <h3>🔴 <a href="#">Project Beta — Dev Productivity CLI</a></h3>
+      <p>An ultra-fast command-line tool built to supercharge developer workflows and automated deployments.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/CLI-EF476F?style=flat-square" />
+      </p>
+      <a href="#">⭐ View Repository</a> • <a href="#">📦 NPM Package</a>
     </td>
-    <td align="center" width="25%">
-      <h3>⚪ SNOW CLOUD</h3>
-      <p><b>Class:</b> Paladin / Royalty</p>
-      <p><b>Special Move:</b> <i>Fur Shed Over Black Clothes</i></p>
-      <p><b>Charisma:</b> +9999</p>
-      <img src="https://img.shields.io/badge/Royalty_Status-PURE_WHITE-FFFFFF?style=flat-square&logoColor=black" />
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🟢 <a href="#">Project Gamma — AI Prompt & Workflow Hub</a></h3>
+      <p>Intelligent workbench empowering developers to orchestrate multi-agent pipelines effortlessly.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI%20Agents-06D6A0?style=flat-square" />
+      </p>
+      <a href="#">⭐ View Repository</a> • <a href="#">🌐 Live Demo</a>
     </td>
-    <td align="center" width="25%">
-      <h3>🟢 FOREST CALICO</h3>
-      <p><b>Class:</b> Druid / Alchemist</p>
-      <p><b>Special Move:</b> <i>Indoor Plant Nibble</i></p>
-      <p><b>Agility:</b> S-Tier Wall Runner</p>
-      <img src="https://img.shields.io/badge/Catnip_Herbalist-READY-06D6A0?style=flat-square" />
+    <td width="50%" valign="top">
+      <h3>⚪ <a href="#">Project Delta — Modern Design System</a></h3>
+      <p>Accessible, modular UI component library crafted for clean interfaces and seamless DX.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
+      </p>
+      <a href="#">⭐ View Repository</a> • <a href="#">📖 Documentation</a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 LIVE SKILL & STATS MATRIX
+## 🎯 Current Goals & Quests for 2026
 
-| Skill Attribute | Power Level | Visual Gauge | Status |
-| :--- | :--- | :--- | :--- |
-| **Speed (3 AM Zoomies)** | `9999 DPI` | `████████████████████` 🟡 | ![#FFD166](https://img.shields.io/badge/MAX-FFD166?style=flat-square&labelColor=1e1e2e) |
-| **Laser Dot Hunting** | `99.8% Accuracy` | `██████████████████░░` 🔴 | ![#EF476F](https://img.shields.io/badge/HUNTING-EF476F?style=flat-square&labelColor=1e1e2e) |
-| **Box Fitting ("If It Fits, I Sits")** | `100% Universal` | `████████████████████` ⚪ | ![#FFFFFF](https://img.shields.io/badge/FITTED-FFFFFF?style=flat-square&labelColor=1e1e2e&logoColor=black) |
-| **Catnip Synergy & Herbology** | `High Resonance` | `█████████████████░░░` 🟢 | ![#06D6A0](https://img.shields.io/badge/HERBAL-06D6A0?style=flat-square&labelColor=1e1e2e) |
-| **Keyboard Walking & Code Typing** | `Legendary (git push -f)`| `████████████████████` 🟡 | ![#FFD166](https://img.shields.io/badge/PUSHED-FFD166?style=flat-square&labelColor=1e1e2e) |
-| **Gravity Checking (Push Glass off Edge)**| `100% Success` | `████████████████████` 🔴 | ![#EF476F](https://img.shields.io/badge/TESTED-EF476F?style=flat-square&labelColor=1e1e2e) |
+- [x] 🚀 Master Next.js App Router & Server Actions
+- [x] 📦 Publish open-source npm packages with 1,000+ downloads
+- [ ] 🦀 Deep dive into Rust & WebAssembly for high-perf systems
+- [ ] 🤖 Build and deploy production AI agent workflows
+- [ ] 🌟 Contribute to 5+ major open source repositories
+- [ ] ☕ Keep daily coffee intake within healthy (mostly) limits
 
 ---
 
-## 🐾 DAILY FELINE QUESTS & OBJECTIVES
-
-- [x] **04:30 AM** — Run sprint laps across the living room at supersonic speeds
-- [x] **06:00 AM** — Sing the song of our ancestors directly into human's ear
-- [x] **08:15 AM** — Inspect food bowl (Food is only in middle, bowl is practically empty!)
-- [x] **11:00 AM** — Sleep in the square beam of sunlight moving across the rug
-- [ ] **02:30 PM** — Walk across mechanical keyboard while human is in Slack meeting
-- [ ] **05:00 PM** — Attempt to capture the evasive, elusive **Red Laser Dot**
-- [ ] **09:00 PM** — Stare intensely at a blank wall at nothing to unnerve human
-- [ ] **11:45 PM** — Initiate midnight parkour training session
-
----
-
-## 🗣️ THE FELINE-HUMAN TRANSLATOR
-
-> *Translate everyday vocalizations into their true developer/cat meanings.*
-
-```
-┌──────────────────────────────┬────────────────────────────────────────────────────────┐
-│ Cat Vocalization             │ Human Translation                                      │
-├──────────────────────────────┼────────────────────────────────────────────────────────┤
-│ 🔊 "Meow"                    │ "Hey human, acknowledge my royal presence immediately."│
-│ 🔊 "Mrow?"                   │ "Did you just open a can or is that another meeting?"   │
-│ 🔊 "EK-EK-EK-EK"             │ "Target bird spotted through the window. Engaging aim."│
-│ 🔊 "PURRRRRR..."             │ "Battery charged to 100%. Dopamine protocol active."   │
-│ 🔊 "HSSSSS!"                 │ "Syntax Error on Line 404: Vacuum Cleaner detected."   │
-│ 🔊 *Stares in silence*       │ "I am currently judging your life choices and code."   │
-└──────────────────────────────┴────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🎁 INTERACTIVE TREATS & SECRET VAULTS
+## 💡 Fun Developer Stuff & Easter Eggs
 
 <details>
-<summary><b>🟡 CLICK TO DISPENSE CRUNCHY TREAT [Loot Drop]</b></summary>
+<summary><b>🟡 Click to generate a Random Dev Joke</b></summary>
 <br>
 
-```
-    /|_/|       ________________________________________
-   / ^ ^ \     /                                        \
-  (   "   )   <   CRUNCH CRUNCH! You gained +50 Energy!  >
-   )===(       \________________________________________/
-  (/   \)
-```
-> **Item Acquired:** `[Legendary Tuna Nibble]` ⭐⭐⭐⭐⭐  
-> *Effect: +20% zoomies sprint velocity for 10 minutes.*
+> **Q:** Why do programmers prefer dark mode?  
+> **A:** Because light attracts bugs! 🪲💡  
+> 
+> *There are 10 types of people in this world: those who understand binary, and those who don't.*
 </details>
 
 <details>
-<summary><b>🔴 CLICK TO OPEN THE MEOW FORTUNE COOKIE [Wisdom]</b></summary>
-<br>
-
-> 🥠 **Feline Proverb #42:**  
-> *"If you cannot catch the red laser, sit on the human's mouse. Control the source."*
->
-> 💡 **Developer Cat Proverb:**  
-> *"A bug in production is simply an undocumented feature requiring a nap to resolve."*
-</details>
-
-<details>
-<summary><b>🟢 CLICK TO ACTIVATE ORGANIC CATNIP FIELD [Buff Zone]</b></summary>
+<summary><b>🔴 Click to see My Coding Playlist Vibe</b></summary>
 <br>
 
 ```
-   🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿
-   🌿  ( /\_/\ )   "THE CATNIP VIBES ARE UNMATCHED"   🌿
-   🌿  ( ='.'= )                                     🌿
-   🌿  (")_(")     Euphoria: 100% | Chill: Infinite   🌿
-   🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿 🌿
+  [ 🎧 Currently Jamming ]
+  ┌─────────────────────────────────────────────────────────────┐
+  │  🎵 Track  : Synthwave / Lofi Beats for Deep Focus Code     │
+  │  🔊 Audio  : ████████████████████░░ 85%                     │
+  │  ☕ Status : In the Zone • Do Not Disturb                   │
+  └─────────────────────────────────────────────────────────────┘
 ```
 </details>
 
 <details>
-<summary><b>⚪ CLICK FOR AUDIO MEOW SOUNDBOARD [ASCII Edition]</b></summary>
+<summary><b>🟢 Click to inspect My Desk & Dev Setup</b></summary>
 <br>
 
-```
-[ ▶ PLAY: Soft Purr ]    ══════════════════● 03:42 / 10:00 (Looping)
-[ ▶ PLAY: 3AM Zoomies ]  ███████████████████ 11:11 / 11:11 (Ear-damage Mode)
-[ ▶ PLAY: Can Opener ]   ●══════════════════ 00:01 / 00:05 (Instant Wakeup)
-```
+- **🖥️ Monitor:** 34" Ultrawide 144Hz IPS
+- **⌨️ Keyboard:** Custom Mechanical (Lubed Switches, Warm Yellow Backlight)
+- **🖱️ Mouse:** Logitech MX Master 3S
+- **💻 Machine:** MacBook Pro / Custom Linux Rig
+- **☕ Mug:** *"It compiles on my machine"*
 </details>
 
 ---
-
-## 📜 THE LAWS OF FELINE PHYSICS
-
-1. **The Law of Cat Solid/Fluid Duality**: A cat will comfortably take the shape of any container (box, glass jar, sink, or cardboard carton) regardless of volume constraints.
-2. **The Law of Keyboard Gravitation**: A warm laptop keyboard exerts a gravitational pull directly proportional to the urgency of the human's deadline.
-3. **The Law of Door Indecision**: A closed door must be opened immediately. Once opened, the cat must stand directly on the threshold and ponder existence for at least 3 minutes.
-4. **The Law of The Red Dot**: The red dot travels at the speed of light, but the cat's claws will one day grasp reality itself.
-
----
-
-## 🌐 GITHUB & FORUM LEADERBOARD STATS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=github&show_icons=true&theme=tokyonight&title_color=FFD166&text_color=FFFFFF&icon_color=EF476F&bg_color=161b22&border_color=06D6A0&hide_border=false" width="48%" alt="Feline Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github&layout=compact&theme=tokyonight&title_color=FFD166&text_color=FFFFFF&bg_color=161b22&border_color=EF476F&hide_border=false" width="48%" alt="Top Languages" />
+### 🏆 GitHub Contribution Journey
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 <br/><br/>
 
-<!-- RETRO VISITOR COUNTER & FOOTER BADGES -->
+<!-- PROFILE VIEWS & FOOTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meowman-feline-os&label=TOTAL+PETS+RECEIVED&color=FFD166&style=flat-square" alt="Visitor Counter" />
-  <img src="https://img.shields.io/badge/STATUS-CHILLING_ON_KEYBOARD-EF476F?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/POWERED_BY-CATNIP_%26_LOVE-06D6A0?style=flat-square" alt="Catnip" />
+  <img src="https://komarev.com/ghpvc/?username=meowman-profile&label=PROFILE+VIEWS&color=FFD166&style=flat-square" alt="Visitor Counter" />
+  <img src="https://img.shields.io/badge/MADE_WITH-%E2%9D%A4_%26_CODE-EF476F?style=flat-square" alt="Made With Love" />
+  <img src="https://img.shields.io/badge/UPTIME-99.9%25-06D6A0?style=flat-square" alt="Uptime" />
 </p>
 
 <p align="center">
-  <sub>Made with 🐾, warm yellow amber, radiant red, crisp white, and fresh emerald green accents. Have a purr-fect day!</sub>
+  <sub>⭐️ If you like what you see, feel free to star some of my repositories! Thanks for stopping by! ⭐️</sub>
 </p>
 
 </div>
